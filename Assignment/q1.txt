@@ -1,0 +1,7 @@
+Q1. Explain the usage of ternary operator with syntax.
+sol- The ternary operator in JavaScript is a concise way to write simple conditional statements. It is often used as a shorthand for the `if-else` statement when the conditions are straightforward. The syntax of the ternary operator is as follows:
+
+condition ? expression_if_true : expression_if_false;
+
+- If the `condition` is true, the expression before the colon (`:`) is executed.
+- If the `condition` is false, the expression after the colon (`:`) is executed.
